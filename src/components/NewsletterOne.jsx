@@ -14,7 +14,7 @@ const NewsletterOne = () => {
                         <div className="col-xl-6">
                             <div className="">
                                 <h1 className="text-white mb-12">
-                                    Don't Miss Out on Grocery Deals
+                                    Don't Miss Out on TV Deals
                                 </h1>
                                 <p className="text-white h5 mb-0">
                                     SING UP FOR THE UPDATE NEWSLETTER
@@ -35,7 +35,7 @@ const NewsletterOne = () => {
                             </div>
                         </div>
                         <div className="col-xl-6 text-center d-xl-block d-none">
-                            <img src="assets/images/thumbs/newsletter-img.png" alt="" />
+                            <img src="assets/images/TV-Unit-1.jpg" alt="" className='rounded-16' />
                         </div>
                     </div>
                 </div>

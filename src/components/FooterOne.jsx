@@ -167,7 +167,7 @@ const FooterOne = () => {
               </li>
             </ul>
           </div>
-          <div className='footer-item'>
+          {/* <div className='footer-item'>
             <h6 className='footer-item__title'>My Account</h6>
             <ul className='footer-menu'>
               <li className='mb-16'>
@@ -219,8 +219,8 @@ const FooterOne = () => {
                 </Link>
               </li>
             </ul>
-          </div>
-          <div className='footer-item'>
+          </div> */}
+          {/* <div className='footer-item'>
             <h6 className='footer-item__title'>Daily Groceries</h6>
             <ul className='footer-menu'>
               <li className='mb-16'>
@@ -272,11 +272,11 @@ const FooterOne = () => {
                 </Link>
               </li>
             </ul>
-          </div>
+          </div> */}
           <div className='footer-item'>
             <h6 className=''>Shop on The Go</h6>
             <p className='mb-16'>Marketpro App is available. Get it now</p>
-            <div className='flex-align gap-8 my-32'>
+            {/* <div className='flex-align gap-8 my-32'>
               <Link href='/https://www.apple.com/store' className=''>
                 <img src='assets/images/thumbs/store-img1.png' alt='' />
               </Link>
@@ -286,7 +286,7 @@ const FooterOne = () => {
               >
                 <img src='assets/images/thumbs/store-img2.png' alt='' />
               </Link>
-            </div>
+            </div> */}
             <ul className='flex-align gap-16'>
               <li>
                 <Link

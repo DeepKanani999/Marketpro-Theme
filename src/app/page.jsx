@@ -12,11 +12,13 @@ import NewArrivalOne from "@/components/NewArrivalOne";
 import NewsletterOne from "@/components/NewsletterOne";
 import OfferOne from "@/components/OfferOne";
 import OrganicOne from "@/components/OrganicOne";
+import ProductDescription from "@/components/ProductDescription";
 import ProductListOne from "@/components/ProductListOne";
 import PromotionalOne from "@/components/PromotionalOne";
 import RecommendedOne from "@/components/RecommendedOne";
 import ShippingOne from "@/components/ShippingOne";
 import ShortProductOne from "@/components/ShortProductOne";
+import SocialView from "@/components/SocialView";
 import TopVendorsOne from "@/components/TopVendorsOne";
 import ColorInit from "@/helper/ColorInit";
 import Preloader from "@/helper/Preloader";
@@ -46,50 +48,56 @@ const page = () => {
       {/* BannerOne */}
       <BannerOne />
 
+      {/* SocialView */}
+      <SocialView />
+
+      {/* ProductDescription */}
+      <ProductDescription />
+
       {/* FeatureOne */}
-      <FeatureOne />
+      {/* <FeatureOne /> */}
 
       {/* PromotionalOne */}
-      <PromotionalOne />
+      {/* <PromotionalOne /> */}
 
       {/* FlashSalesOne */}
-      <FlashSalesOne />
+      {/* <FlashSalesOne /> */}
 
       {/* ProductListOne */}
-      <ProductListOne />
+      {/* <ProductListOne /> */}
 
       {/* OfferOne */}
-      <OfferOne />
+      {/* <OfferOne /> */}
 
       {/* RecommendedOne */}
-      <RecommendedOne />
+      {/* <RecommendedOne /> */}
 
       {/* HotDealsOne */}
-      <HotDealsOne />
+      {/* <HotDealsOne /> */}
 
       {/* TopVendorsOne */}
-      <TopVendorsOne />
+      {/* <TopVendorsOne /> */}
 
       {/* BestSellsOne */}
-      <BestSellsOne />
+      {/* <BestSellsOne /> */}
 
       {/* DeliveryOne */}
-      <DeliveryOne />
+      {/* <DeliveryOne /> */}
 
       {/* OrganicOne */}
-      <OrganicOne />
+      {/* <OrganicOne /> */}
 
       {/* ShortProductOne */}
-      <ShortProductOne />
+      {/* <ShortProductOne /> */}
 
       {/* BrandOne */}
-      <BrandOne />
+      {/* <BrandOne /> */}
 
       {/* NewArrivalOne */}
-      <NewArrivalOne />
+      {/* <NewArrivalOne /> */}
 
       {/* ShippingOne */}
-      <ShippingOne />
+      {/* <ShippingOne /> */}
 
       {/* NewsletterOne */}
       <NewsletterOne />
